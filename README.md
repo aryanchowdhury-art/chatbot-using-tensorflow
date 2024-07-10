@@ -4,7 +4,6 @@
 
 -----------------------------------------sorry for that--------------------------------------------------
 ----------------------------------too many bugs ---------------------------------------------------------------
-
 import tensorflow as tf
 import numpy as np
 import nltk
@@ -154,3 +153,7 @@ while True:
     if input_text.lower() == 'quit':
         break
     respond(input_text)
+
+
+
+--------------------------------not going to use ChatGPT it will hurt my ego-------------------------------------
